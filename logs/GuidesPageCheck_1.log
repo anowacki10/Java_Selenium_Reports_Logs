@@ -1,0 +1,54 @@
+[INFO ] 2023-10-24 16:50:19.545 - com.Utils.MyLogger:startTestCase 15==>  
+
+************** Execution Started : GuidesPageCheck**************
+
+[INFO ] 2023-10-24 16:50:19.551 - com.Utils.Listeners:onTestStart 31==>  GuidesPageCheck executing...
+[WARN ] 2023-10-24 16:50:20.753 - com.Utils.Listeners:onTestSuccess 39==>  Test Executed Succesfully
+[INFO ] 2023-10-24 16:56:18.199 - com.Utils.MyLogger:startTestCase 15==>  
+
+************** Execution Started : GuidesPageCheck**************
+
+[INFO ] 2023-10-24 16:56:18.204 - com.Utils.Listeners:onTestStart 31==>  GuidesPageCheck executing...
+[WARN ] 2023-10-24 16:56:19.414 - com.Utils.Listeners:onTestSuccess 39==>  Test Executed Succesfully
+[INFO ] 2023-10-24 17:02:08.076 - com.Utils.MyLogger:startTestCase 15==>  
+
+************** Execution Started : GuidesPageCheck**************
+
+[INFO ] 2023-10-24 17:02:08.081 - com.Utils.Listeners:onTestStart 31==>  GuidesPageCheck executing...
+[WARN ] 2023-10-24 17:02:08.083 - com.Utils.Listeners:onTestSkipped 79==>  Test Skipped
+[INFO ] 2023-10-24 17:05:26.540 - com.Utils.MyLogger:startTestCase 15==>  
+
+************** Execution Started : GuidesPageCheck**************
+
+[INFO ] 2023-10-24 17:05:26.545 - com.Utils.Listeners:onTestStart 31==>  GuidesPageCheck executing...
+[WARN ] 2023-10-24 17:05:27.830 - com.Utils.Listeners:onTestSuccess 39==>  Test Executed Succesfully
+[INFO ] 2023-10-24 17:11:58.401 - com.Utils.MyLogger:startTestCase 15==>  
+
+************** Execution Started : GuidesPageCheck**************
+
+[INFO ] 2023-10-24 17:11:58.406 - com.Utils.Listeners:onTestStart 31==>  GuidesPageCheck executing...
+[WARN ] 2023-10-24 17:11:59.708 - com.Utils.Listeners:onTestSuccess 39==>  Test Executed Succesfully
+[INFO ] 2023-10-24 17:17:39.139 - com.Utils.MyLogger:startTestCase 15==>  
+
+************** Execution Started : GuidesPageCheck**************
+
+[INFO ] 2023-10-24 17:17:39.146 - com.Utils.Listeners:onTestStart 31==>  GuidesPageCheck executing...
+[WARN ] 2023-10-24 17:17:40.433 - com.Utils.Listeners:onTestSuccess 39==>  Test Executed Succesfully
+[INFO ] 2023-10-24 17:22:48.190 - com.Utils.MyLogger:startTestCase 15==>  
+
+************** Execution Started : GuidesPageCheck**************
+
+[INFO ] 2023-10-24 17:22:48.197 - com.Utils.Listeners:onTestStart 31==>  GuidesPageCheck executing...
+[WARN ] 2023-10-24 17:22:48.199 - com.Utils.Listeners:onTestSkipped 79==>  Test Skipped
+[INFO ] 2023-10-24 17:23:53.966 - com.Utils.MyLogger:startTestCase 15==>  
+
+************** Execution Started : GuidesPageCheck**************
+
+[INFO ] 2023-10-24 17:23:53.972 - com.Utils.Listeners:onTestStart 31==>  GuidesPageCheck executing...
+[WARN ] 2023-10-24 17:23:53.974 - com.Utils.Listeners:onTestSkipped 79==>  Test Skipped
+[INFO ] 2023-10-24 17:25:36.933 - com.Utils.MyLogger:startTestCase 15==>  
+
+************** Execution Started : GuidesPageCheck**************
+
+[INFO ] 2023-10-24 17:25:36.939 - com.Utils.Listeners:onTestStart 31==>  GuidesPageCheck executing...
+[WARN ] 2023-10-24 17:25:38.175 - com.Utils.Listeners:onTestSuccess 39==>  Test Executed Succesfully

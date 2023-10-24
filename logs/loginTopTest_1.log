@@ -1,0 +1,54 @@
+[INFO ] 2023-10-24 16:50:11.960 - com.Utils.MyLogger:startTestCase 15==>  
+
+************** Execution Started : loginTopTest**************
+
+[INFO ] 2023-10-24 16:50:11.967 - com.Utils.Listeners:onTestStart 31==>  loginTopTest executing...
+[WARN ] 2023-10-24 16:50:12.170 - com.Utils.Listeners:onTestSuccess 39==>  Test Executed Succesfully
+[INFO ] 2023-10-24 16:56:11.391 - com.Utils.MyLogger:startTestCase 15==>  
+
+************** Execution Started : loginTopTest**************
+
+[INFO ] 2023-10-24 16:56:11.398 - com.Utils.Listeners:onTestStart 31==>  loginTopTest executing...
+[WARN ] 2023-10-24 16:56:11.641 - com.Utils.Listeners:onTestSuccess 39==>  Test Executed Succesfully
+[INFO ] 2023-10-24 17:02:08.039 - com.Utils.MyLogger:startTestCase 15==>  
+
+************** Execution Started : loginTopTest**************
+
+[INFO ] 2023-10-24 17:02:08.044 - com.Utils.Listeners:onTestStart 31==>  loginTopTest executing...
+[WARN ] 2023-10-24 17:02:08.046 - com.Utils.Listeners:onTestSkipped 79==>  Test Skipped
+[INFO ] 2023-10-24 17:05:06.358 - com.Utils.MyLogger:startTestCase 15==>  
+
+************** Execution Started : loginTopTest**************
+
+[INFO ] 2023-10-24 17:05:06.363 - com.Utils.Listeners:onTestStart 31==>  loginTopTest executing...
+[WARN ] 2023-10-24 17:05:06.770 - com.Utils.Listeners:onTestSuccess 39==>  Test Executed Succesfully
+[INFO ] 2023-10-24 17:11:38.922 - com.Utils.MyLogger:startTestCase 15==>  
+
+************** Execution Started : loginTopTest**************
+
+[INFO ] 2023-10-24 17:11:38.928 - com.Utils.Listeners:onTestStart 31==>  loginTopTest executing...
+[WARN ] 2023-10-24 17:11:39.366 - com.Utils.Listeners:onTestSuccess 39==>  Test Executed Succesfully
+[INFO ] 2023-10-24 17:17:19.694 - com.Utils.MyLogger:startTestCase 15==>  
+
+************** Execution Started : loginTopTest**************
+
+[INFO ] 2023-10-24 17:17:19.700 - com.Utils.Listeners:onTestStart 31==>  loginTopTest executing...
+[WARN ] 2023-10-24 17:17:20.109 - com.Utils.Listeners:onTestSuccess 39==>  Test Executed Succesfully
+[INFO ] 2023-10-24 17:22:48.157 - com.Utils.MyLogger:startTestCase 15==>  
+
+************** Execution Started : loginTopTest**************
+
+[INFO ] 2023-10-24 17:22:48.162 - com.Utils.Listeners:onTestStart 31==>  loginTopTest executing...
+[WARN ] 2023-10-24 17:22:48.163 - com.Utils.Listeners:onTestSkipped 79==>  Test Skipped
+[INFO ] 2023-10-24 17:23:53.928 - com.Utils.MyLogger:startTestCase 15==>  
+
+************** Execution Started : loginTopTest**************
+
+[INFO ] 2023-10-24 17:23:53.934 - com.Utils.Listeners:onTestStart 31==>  loginTopTest executing...
+[WARN ] 2023-10-24 17:23:53.936 - com.Utils.Listeners:onTestSkipped 79==>  Test Skipped
+[INFO ] 2023-10-24 17:25:29.840 - com.Utils.MyLogger:startTestCase 15==>  
+
+************** Execution Started : loginTopTest**************
+
+[INFO ] 2023-10-24 17:25:29.846 - com.Utils.Listeners:onTestStart 31==>  loginTopTest executing...
+[WARN ] 2023-10-24 17:25:30.067 - com.Utils.Listeners:onTestSuccess 39==>  Test Executed Succesfully

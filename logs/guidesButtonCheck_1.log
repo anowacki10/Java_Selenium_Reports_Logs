@@ -1,0 +1,54 @@
+[INFO ] 2023-10-24 16:50:16.936 - com.Utils.MyLogger:startTestCase 15==>  
+
+************** Execution Started : guidesButtonCheck**************
+
+[INFO ] 2023-10-24 16:50:16.942 - com.Utils.Listeners:onTestStart 31==>  guidesButtonCheck executing...
+[WARN ] 2023-10-24 16:50:17.190 - com.Utils.Listeners:onTestSuccess 39==>  Test Executed Succesfully
+[INFO ] 2023-10-24 16:56:16.096 - com.Utils.MyLogger:startTestCase 15==>  
+
+************** Execution Started : guidesButtonCheck**************
+
+[INFO ] 2023-10-24 16:56:16.100 - com.Utils.Listeners:onTestStart 31==>  guidesButtonCheck executing...
+[WARN ] 2023-10-24 16:56:16.294 - com.Utils.Listeners:onTestSuccess 39==>  Test Executed Succesfully
+[INFO ] 2023-10-24 17:02:08.062 - com.Utils.MyLogger:startTestCase 15==>  
+
+************** Execution Started : guidesButtonCheck**************
+
+[INFO ] 2023-10-24 17:02:08.071 - com.Utils.Listeners:onTestStart 31==>  guidesButtonCheck executing...
+[WARN ] 2023-10-24 17:02:08.073 - com.Utils.Listeners:onTestSkipped 79==>  Test Skipped
+[INFO ] 2023-10-24 17:05:19.874 - com.Utils.MyLogger:startTestCase 15==>  
+
+************** Execution Started : guidesButtonCheck**************
+
+[INFO ] 2023-10-24 17:05:19.879 - com.Utils.Listeners:onTestStart 31==>  guidesButtonCheck executing...
+[WARN ] 2023-10-24 17:05:20.271 - com.Utils.Listeners:onTestSuccess 39==>  Test Executed Succesfully
+[INFO ] 2023-10-24 17:11:51.852 - com.Utils.MyLogger:startTestCase 15==>  
+
+************** Execution Started : guidesButtonCheck**************
+
+[INFO ] 2023-10-24 17:11:51.858 - com.Utils.Listeners:onTestStart 31==>  guidesButtonCheck executing...
+[WARN ] 2023-10-24 17:11:52.261 - com.Utils.Listeners:onTestSuccess 39==>  Test Executed Succesfully
+[INFO ] 2023-10-24 17:17:32.457 - com.Utils.MyLogger:startTestCase 15==>  
+
+************** Execution Started : guidesButtonCheck**************
+
+[INFO ] 2023-10-24 17:17:32.463 - com.Utils.Listeners:onTestStart 31==>  guidesButtonCheck executing...
+[WARN ] 2023-10-24 17:17:32.876 - com.Utils.Listeners:onTestSuccess 39==>  Test Executed Succesfully
+[INFO ] 2023-10-24 17:22:48.178 - com.Utils.MyLogger:startTestCase 15==>  
+
+************** Execution Started : guidesButtonCheck**************
+
+[INFO ] 2023-10-24 17:22:48.184 - com.Utils.Listeners:onTestStart 31==>  guidesButtonCheck executing...
+[WARN ] 2023-10-24 17:22:48.185 - com.Utils.Listeners:onTestSkipped 79==>  Test Skipped
+[INFO ] 2023-10-24 17:23:53.952 - com.Utils.MyLogger:startTestCase 15==>  
+
+************** Execution Started : guidesButtonCheck**************
+
+[INFO ] 2023-10-24 17:23:53.959 - com.Utils.Listeners:onTestStart 31==>  guidesButtonCheck executing...
+[WARN ] 2023-10-24 17:23:53.960 - com.Utils.Listeners:onTestSkipped 79==>  Test Skipped
+[INFO ] 2023-10-24 17:25:34.276 - com.Utils.MyLogger:startTestCase 15==>  
+
+************** Execution Started : guidesButtonCheck**************
+
+[INFO ] 2023-10-24 17:25:34.284 - com.Utils.Listeners:onTestStart 31==>  guidesButtonCheck executing...
+[WARN ] 2023-10-24 17:25:34.499 - com.Utils.Listeners:onTestSuccess 39==>  Test Executed Succesfully

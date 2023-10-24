@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <listeners>
+        <listener class-name="com.Utils.Listeners"></listener>
+    </listeners>
+    <test verbose="2" preserve-order="true" name="C:/Users/Artur/projects/selenium_pageFactory_POM/src/test/java/tests/testCases.java">
+    <classes><class name="tests.testCases">
+        <methods>
+            <include name="warningTextMessageCheck"/>
+            <include name="TestBankID"/>
+            <include name="ProductionBankID"/>
+            <include name="loginCode"/>
+            <include name="securityButtonCheck"/>
+            <include name="identityButtonCheck"/>
+        </methods>
+    </class></classes>
+</test></suite>

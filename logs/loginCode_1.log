@@ -1,0 +1,24 @@
+[INFO ] 2023-10-24 16:59:04.321 - com.Utils.MyLogger:startTestCase 15==>  
+
+************** Execution Started : loginCode**************
+
+[INFO ] 2023-10-24 16:59:04.327 - com.Utils.Listeners:onTestStart 31==>  loginCode executing...
+[WARN ] 2023-10-24 16:59:19.270 - com.Utils.Listeners:onTestSuccess 39==>  Test Executed Succesfully
+[INFO ] 2023-10-24 17:08:02.697 - com.Utils.MyLogger:startTestCase 15==>  
+
+************** Execution Started : loginCode**************
+
+[INFO ] 2023-10-24 17:08:02.704 - com.Utils.Listeners:onTestStart 31==>  loginCode executing...
+[WARN ] 2023-10-24 17:08:17.744 - com.Utils.Listeners:onTestSuccess 39==>  Test Executed Succesfully
+[INFO ] 2023-10-24 17:19:48.049 - com.Utils.MyLogger:startTestCase 15==>  
+
+************** Execution Started : loginCode**************
+
+[INFO ] 2023-10-24 17:19:48.057 - com.Utils.Listeners:onTestStart 31==>  loginCode executing...
+[WARN ] 2023-10-24 17:20:03.075 - com.Utils.Listeners:onTestSuccess 39==>  Test Executed Succesfully
+[INFO ] 2023-10-24 17:27:41.905 - com.Utils.MyLogger:startTestCase 15==>  
+
+************** Execution Started : loginCode**************
+
+[INFO ] 2023-10-24 17:27:41.910 - com.Utils.Listeners:onTestStart 31==>  loginCode executing...
+[WARN ] 2023-10-24 17:27:56.836 - com.Utils.Listeners:onTestSuccess 39==>  Test Executed Succesfully

@@ -1,0 +1,24 @@
+[INFO ] 2023-10-24 16:57:38.756 - com.Utils.MyLogger:startTestCase 15==>  
+
+************** Execution Started : TestBankID**************
+
+[INFO ] 2023-10-24 16:57:38.761 - com.Utils.Listeners:onTestStart 31==>  TestBankID executing...
+[WARN ] 2023-10-24 16:57:51.413 - com.Utils.Listeners:onTestFailure 45==>  TEST FILED !
+[INFO ] 2023-10-24 17:06:28.111 - com.Utils.MyLogger:startTestCase 15==>  
+
+************** Execution Started : TestBankID**************
+
+[INFO ] 2023-10-24 17:06:28.117 - com.Utils.Listeners:onTestStart 31==>  TestBankID executing...
+[WARN ] 2023-10-24 17:06:41.041 - com.Utils.Listeners:onTestFailure 45==>  TEST FILED !
+[INFO ] 2023-10-24 17:18:13.819 - com.Utils.MyLogger:startTestCase 15==>  
+
+************** Execution Started : TestBankID**************
+
+[INFO ] 2023-10-24 17:18:13.824 - com.Utils.Listeners:onTestStart 31==>  TestBankID executing...
+[WARN ] 2023-10-24 17:18:26.734 - com.Utils.Listeners:onTestFailure 45==>  TEST FILED !
+[INFO ] 2023-10-24 17:26:15.919 - com.Utils.MyLogger:startTestCase 15==>  
+
+************** Execution Started : TestBankID**************
+
+[INFO ] 2023-10-24 17:26:15.923 - com.Utils.Listeners:onTestStart 31==>  TestBankID executing...
+[WARN ] 2023-10-24 17:26:28.608 - com.Utils.Listeners:onTestFailure 45==>  TEST FILED !

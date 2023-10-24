@@ -1,0 +1,54 @@
+[INFO ] 2023-10-24 16:50:09.532 - com.Utils.MyLogger:startTestCase 15==>  
+
+************** Execution Started : logoVeryfi**************
+
+[INFO ] 2023-10-24 16:50:09.559 - com.Utils.Listeners:onTestStart 31==>  logoVeryfi executing...
+[WARN ] 2023-10-24 16:50:09.640 - com.Utils.Listeners:onTestSuccess 39==>  Test Executed Succesfully
+[INFO ] 2023-10-24 16:56:09.248 - com.Utils.MyLogger:startTestCase 15==>  
+
+************** Execution Started : logoVeryfi**************
+
+[INFO ] 2023-10-24 16:56:09.275 - com.Utils.Listeners:onTestStart 31==>  logoVeryfi executing...
+[WARN ] 2023-10-24 16:56:09.366 - com.Utils.Listeners:onTestSuccess 39==>  Test Executed Succesfully
+[INFO ] 2023-10-24 17:02:08.005 - com.Utils.MyLogger:startTestCase 15==>  
+
+************** Execution Started : logoVeryfi**************
+
+[INFO ] 2023-10-24 17:02:08.031 - com.Utils.Listeners:onTestStart 31==>  logoVeryfi executing...
+[WARN ] 2023-10-24 17:02:08.033 - com.Utils.Listeners:onTestSkipped 79==>  Test Skipped
+[INFO ] 2023-10-24 17:04:59.774 - com.Utils.MyLogger:startTestCase 15==>  
+
+************** Execution Started : logoVeryfi**************
+
+[INFO ] 2023-10-24 17:04:59.805 - com.Utils.Listeners:onTestStart 31==>  logoVeryfi executing...
+[WARN ] 2023-10-24 17:04:59.891 - com.Utils.Listeners:onTestSuccess 39==>  Test Executed Succesfully
+[INFO ] 2023-10-24 17:11:32.834 - com.Utils.MyLogger:startTestCase 15==>  
+
+************** Execution Started : logoVeryfi**************
+
+[INFO ] 2023-10-24 17:11:32.862 - com.Utils.Listeners:onTestStart 31==>  logoVeryfi executing...
+[WARN ] 2023-10-24 17:11:32.943 - com.Utils.Listeners:onTestSuccess 39==>  Test Executed Succesfully
+[INFO ] 2023-10-24 17:17:13.596 - com.Utils.MyLogger:startTestCase 15==>  
+
+************** Execution Started : logoVeryfi**************
+
+[INFO ] 2023-10-24 17:17:13.627 - com.Utils.Listeners:onTestStart 31==>  logoVeryfi executing...
+[WARN ] 2023-10-24 17:17:13.712 - com.Utils.Listeners:onTestSuccess 39==>  Test Executed Succesfully
+[INFO ] 2023-10-24 17:22:48.123 - com.Utils.MyLogger:startTestCase 15==>  
+
+************** Execution Started : logoVeryfi**************
+
+[INFO ] 2023-10-24 17:22:48.151 - com.Utils.Listeners:onTestStart 31==>  logoVeryfi executing...
+[WARN ] 2023-10-24 17:22:48.153 - com.Utils.Listeners:onTestSkipped 79==>  Test Skipped
+[INFO ] 2023-10-24 17:23:53.895 - com.Utils.MyLogger:startTestCase 15==>  
+
+************** Execution Started : logoVeryfi**************
+
+[INFO ] 2023-10-24 17:23:53.921 - com.Utils.Listeners:onTestStart 31==>  logoVeryfi executing...
+[WARN ] 2023-10-24 17:23:53.923 - com.Utils.Listeners:onTestSkipped 79==>  Test Skipped
+[INFO ] 2023-10-24 17:25:27.463 - com.Utils.MyLogger:startTestCase 15==>  
+
+************** Execution Started : logoVeryfi**************
+
+[INFO ] 2023-10-24 17:25:27.496 - com.Utils.Listeners:onTestStart 31==>  logoVeryfi executing...
+[WARN ] 2023-10-24 17:25:27.613 - com.Utils.Listeners:onTestSuccess 39==>  Test Executed Succesfully
