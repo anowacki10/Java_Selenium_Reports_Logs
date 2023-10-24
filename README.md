@@ -7,7 +7,6 @@
 Welcome to my **CROSSWEB** Java-Selenium project for testing simple Web App.
 Project is developed in **Page Object Model** pattern assisted by **Page Factory** framework.
 <Pre></Pre>
-#### Technologies & Frameworks ✨ 
 <pre>
 -  <b><i>Maven</b></i> -  bulding tool
 -  <b><i>JAVA</b></i> -  main Language
@@ -33,11 +32,14 @@ Project is developed in **Page Object Model** pattern assisted by **Page Factory
 - **clone this. repository using command:**
   <br></br><pre>git clone https://github.com/anowacki10/Java_Selenium_automaticReports-Logs.git</pre>
 - **get to the repository PATH in cmd** <pre> "./Java_Selenium_automaticReports-Logs"</pre>
-- **now you're abble to run tests using commands presented bellow** <pre>mvn clean test -DtestngName="smoke.xml"</pre> <pre>mvn clean test -DtestngName="testCases.xml"</pre>
+- **now you're abble to run tests using bellow pressented commands** <pre>mvn clean test -DtestngName="smoke.xml"</pre> <pre>mvn clean test -DtestngName="testCases.xml"</pre>
 
- <i> Test will be performed in the background, you will be able to track their results and the current status in the logs.</i> <<br><br/><br>After test executed you are abble to check resoults in:</br>
+  <i>   Test will be performed in the background, you will be able to track their results and the current status in the logs.</i> <br><br/><br>After test executed you are abble to check resoults in:</br>
 
 - logs <pre> ./src/logs/"TEST_NAME.log"   </pre>
+- reports <pre> ./Reports/"BrowserName_Report_date.xml"</pre>
+
+### Samples 🙈 🙉 🙊
 
 
 
