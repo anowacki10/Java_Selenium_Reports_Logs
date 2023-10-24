@@ -32,7 +32,7 @@ Project is developed in **Page Object Model** pattern assisted by **Page Factory
 - **clone this. repository using command:**
   <br></br><pre>git clone https://github.com/anowacki10/Java_Selenium_automaticReports-Logs.git</pre>
 - **get to the repository PATH in cmd** <pre> "./Java_Selenium_automaticReports-Logs"</pre>
-- **now you're abble to run tests using bellow pressented commands** <pre>mvn clean test -DtestngName="smoke.xml"</pre> <pre>mvn clean test -DtestngName="testCases.xml"</pre>
+- **now you're abble to run tests using following commands** <pre>mvn clean test -DtestngName="smoke.xml"</pre> <pre>mvn clean test -DtestngName="testCases.xml"</pre>
 
   <i>   Test will be performed in the background, you will be able to track their results and the current status in the logs.</i> <br><br/><br>After test executed you are abble to check resoults in:</br>
 
