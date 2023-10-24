@@ -6,18 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6ff86f1f-3711-4667-b3c5-10da2bdc154e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/GuidesPageCheck_1.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/GuidesPageCheck_1.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/ProductionBankID_1.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/ProductionBankID_1.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/TestBankID_1.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/TestBankID_1.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/guidesButtonCheck_1.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/guidesButtonCheck_1.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/identityButtonCheck_1.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/identityButtonCheck_1.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/loginBottomTest_1.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/loginBottomTest_1.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/loginCode_1.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/loginCode_1.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/loginTopTest_1.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/loginTopTest_1.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/logoVeryfi_1.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/logoVeryfi_1.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/securityButtonCheck_1.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/securityButtonCheck_1.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/warningTextMessageCheck_1.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/warningTextMessageCheck_1.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/Utils/BrowserFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Utils/BrowserFactory.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
