@@ -69,31 +69,18 @@ public class testCases extends TestBase {
     @Test
     public void loginCode() throws IOException, InterruptedException {
         mainPage.loginTopClick();
-        sleep(1000);
         loginPage.personalCodeClick();
-        sleep(1000);
         loginPage.FillPersonalCodeInput(getProp("invalidPersonalCode"));
-        sleep(1000);
         loginPage.codeLoginClick();
-        sleep(1000);
         String text = loginPage.invalidCodeResponseText();
-        sleep(1000);
         Assert.assertEquals(text, getProp("invalidCodeResponse"));
-        sleep(1000);
         loginPage.orderPersonalCodeClick();
-        sleep(1000);
         loginPage.fillFirstName(getProp("fname"));
-        sleep(1000);
         loginPage.fillLastName(getProp("lname"));
-        sleep(1000);
         loginPage.fillOrganization(getProp("organizationName"));
-        sleep(1000);
         loginPage.fillProjectName(getProp("projectName"));
-        sleep(1000);
         loginPage.fillEmail(getProp("email"));
-        sleep(1000);
         loginPage.orderCodeClick();
-        sleep(1000);
         Assert.assertEquals(DriverFactory.getInstance().getDriver().getCurrentUrl(),getProp("expectedCodeSentUrl"));
 
 
