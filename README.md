@@ -1,6 +1,6 @@
 ## Java_Selenium_POM_automaticReports-Logs 📰
 <pre>
-Check requirements & instruction for run this project locally or checkout samples bellow 🔽
+<b>Check requirements & instruction for run this project locally or checkout samples bellow 🔽 <b>
 </pre>
 #### SUMMARY 📚
 
@@ -25,17 +25,17 @@ Project is developed in **Page Object Model** pattern assisted by **Page Factory
 - <b>Chrome Version 118.0.5993.89</b> 
 - <b>Firefox Version 119.0 </b>
   
-   <b>Rest of frameworks and tools you gonna build from dependecies in pom.xml </b>
+   <b>The rest of the frameworks and tools will be built from dependencies in pom.xml. </b>
 </pre>
 
-<h3>Instrucions ↩️</h3> to build local
+<h3>Instrucions ↩️</h3> to build locally<br></br>
 
 - **clone this. repository using command:**
-  <pre>git clone https://github.com/anowacki10/Java_Selenium_automaticReports-Logs.git</pre>
-- **get to the repository PATH in cmd** <pre> ./Java_Selenium_automaticReports-Logs</pre>
+  <br></br><pre>git clone https://github.com/anowacki10/Java_Selenium_automaticReports-Logs.git</pre>
+- **get to the repository PATH in cmd** <pre> "./Java_Selenium_automaticReports-Logs"</pre>
 - **now you're abble to run tests using commands presented bellow** <pre>mvn clean test -DtestngName="smoke.xml"</pre> <pre>mvn clean test -DtestngName="testCases.xml"</pre>
 
- <b><i> Test will be performed in the background, you will be able to track their results and the current status in the logs.</b></i><<br><br/><br>After test executed you are abble to check resoults in:</br>
+ <i> Test will be performed in the background, you will be able to track their results and the current status in the logs.</i> <<br><br/><br>After test executed you are abble to check resoults in:</br>
 
 - logs <pre> ./src/logs/"TEST_NAME.log"   </pre>
 
