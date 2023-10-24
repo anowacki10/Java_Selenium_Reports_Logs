@@ -45,5 +45,3 @@ Project is developed in **Page Object Model** pattern assisted by **Page Factory
 <br>![Alt Text](./extentReport_overview.gif)</br>
 - ### Sample test execution
 <br>![Alt Text](.sampleTestExecute.gif)</br>
-
-
