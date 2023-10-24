@@ -52,13 +52,13 @@ public class testCases extends TestBase {
         Assert.assertEquals(text,getProp("expectedProductionBankIdText"));
         boolean  qr =loginPage.getQrCodeBankID();
         Assert.assertEquals(qr,true);
-        sleep(30000);
+        sleep(32000);
         String filedText = loginPage.getFiledLoginText();
         Assert.assertEquals(filedText, getProp("expectedFiledLoginText"));
         loginPage.tryAgainClick();
         Assert.assertEquals(DriverFactory.getInstance().getDriver().getCurrentUrl(),getProp("expectedLoginUrl"));
         loginPage.productionBankIdClick();
-        sleep(35000);
+        sleep(32000);
         loginPage.closeLoginClick();
         Assert.assertEquals(DriverFactory.getInstance().getDriver().getCurrentUrl(),getProp("url"));
 
