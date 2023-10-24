@@ -40,8 +40,11 @@ Project is developed in **Page Object Model** pattern assisted by **Page Factory
 - reports <pre> ./Reports/"BrowserName_Report_date.xml"</pre>
 
 ## Samples 🙈 🙉 🙊
+  Check a short GIF of ExtentReport overview, a sample Test execution or sample Test Case code.
 <br></br>
 - ### Report Overview
 <br>![Alt Text](./extentReport_overview.gif)</br>
 - ### Sample test execution
-<br>![Alt Text](.sampleTestExecute.gif)</br>
+<br>![Alt Text](./sampleTestExecute.gif)</br>
+- - ### Sample Test Case
+<br>![Alt Text](./sampleTest.png)</br>
