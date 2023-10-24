@@ -39,8 +39,11 @@ Project is developed in **Page Object Model** pattern assisted by **Page Factory
 - logs <pre> ./src/logs/"TEST_NAME.log"   </pre>
 - reports <pre> ./Reports/"BrowserName_Report_date.xml"</pre>
 
-### Samples 🙈 🙉 🙊
-
-- <b>Report overview<b>
+## Samples 🙈 🙉 🙊
+<br></br>
+- ### Report Overview
+<br>![Alt Text](./extentReport_overview.gif)</br>
+- ### Sample test execution
+<br>![Alt Text](.sampleTestExecute.gif)</br>
 
 
