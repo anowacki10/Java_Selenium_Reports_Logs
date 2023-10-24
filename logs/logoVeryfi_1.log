@@ -52,3 +52,15 @@
 
 [INFO ] 2023-10-24 17:25:27.496 - com.Utils.Listeners:onTestStart 31==>  logoVeryfi executing...
 [WARN ] 2023-10-24 17:25:27.613 - com.Utils.Listeners:onTestSuccess 39==>  Test Executed Succesfully
+[INFO ] 2023-10-24 22:27:53.192 - com.Utils.MyLogger:startTestCase 15==>  
+
+************** Execution Started : logoVeryfi**************
+
+[INFO ] 2023-10-24 22:27:53.221 - com.Utils.Listeners:onTestStart 31==>  logoVeryfi executing...
+[WARN ] 2023-10-24 22:27:53.312 - com.Utils.Listeners:onTestSuccess 39==>  Test Executed Succesfully
+[INFO ] 2023-10-24 22:32:49.210 - com.Utils.MyLogger:startTestCase 15==>  
+
+************** Execution Started : logoVeryfi**************
+
+[INFO ] 2023-10-24 22:32:49.244 - com.Utils.Listeners:onTestStart 31==>  logoVeryfi executing...
+[WARN ] 2023-10-24 22:32:49.353 - com.Utils.Listeners:onTestSuccess 39==>  Test Executed Succesfully

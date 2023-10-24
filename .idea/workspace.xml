@@ -4,7 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ff86f1f-3711-4667-b3c5-10da2bdc154e" name="Changes" comment="" />
+    <list default="true" id="6ff86f1f-3711-4667-b3c5-10da2bdc154e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/GuidesPageCheck_1.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/GuidesPageCheck_1.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/ProductionBankID_1.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/ProductionBankID_1.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/TestBankID_1.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/TestBankID_1.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/guidesButtonCheck_1.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/guidesButtonCheck_1.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/identityButtonCheck_1.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/identityButtonCheck_1.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/loginBottomTest_1.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/loginBottomTest_1.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/loginCode_1.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/loginCode_1.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/loginTopTest_1.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/loginTopTest_1.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/logoVeryfi_1.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/logoVeryfi_1.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/securityButtonCheck_1.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/securityButtonCheck_1.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/warningTextMessageCheck_1.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/warningTextMessageCheck_1.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Utils/BrowserFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Utils/BrowserFactory.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +35,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -36,7 +53,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/Artur/projects/selenium_pageFactory_POM",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",

@@ -22,3 +22,15 @@
 
 [INFO ] 2023-10-24 17:27:41.910 - com.Utils.Listeners:onTestStart 31==>  loginCode executing...
 [WARN ] 2023-10-24 17:27:56.836 - com.Utils.Listeners:onTestSuccess 39==>  Test Executed Succesfully
+[INFO ] 2023-10-24 22:29:58.378 - com.Utils.MyLogger:startTestCase 15==>  
+
+************** Execution Started : loginCode**************
+
+[INFO ] 2023-10-24 22:29:58.383 - com.Utils.Listeners:onTestStart 31==>  loginCode executing...
+[WARN ] 2023-10-24 22:30:13.182 - com.Utils.Listeners:onTestSuccess 39==>  Test Executed Succesfully
+[INFO ] 2023-10-24 22:35:12.194 - com.Utils.MyLogger:startTestCase 15==>  
+
+************** Execution Started : loginCode**************
+
+[INFO ] 2023-10-24 22:35:12.201 - com.Utils.Listeners:onTestStart 31==>  loginCode executing...
+[WARN ] 2023-10-24 22:35:27.142 - com.Utils.Listeners:onTestSuccess 39==>  Test Executed Succesfully
