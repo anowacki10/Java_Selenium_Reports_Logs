@@ -82,3 +82,9 @@
 
 [INFO ] 2023-10-25 12:26:22.757 - com.Utils.Listeners:onTestStart 31==>  logoVeryfi executing...
 [WARN ] 2023-10-25 12:26:22.842 - com.Utils.Listeners:onTestSuccess 39==>  Test Executed Succesfully
+[INFO ] 2023-10-25 12:29:28.084 - com.Utils.MyLogger:startTestCase 15==>  
+
+************** Execution Started : logoVeryfi**************
+
+[INFO ] 2023-10-25 12:29:28.110 - com.Utils.Listeners:onTestStart 31==>  logoVeryfi executing...
+[WARN ] 2023-10-25 12:29:28.191 - com.Utils.Listeners:onTestSuccess 39==>  Test Executed Succesfully
