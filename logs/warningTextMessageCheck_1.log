@@ -34,3 +34,26 @@
 
 [INFO ] 2023-10-24 22:33:35.520 - com.Utils.Listeners:onTestStart 31==>  warningTextMessageCheck executing...
 [WARN ] 2023-10-24 22:33:35.731 - com.Utils.Listeners:onTestSuccess 39==>  Test Executed Succesfully
+[INFO ] 2023-10-25 11:25:04.193 - com.Utils.MyLogger:startTestCase 15==>  
+
+************** Execution Started : warningTextMessageCheck**************
+
+[INFO ] 2023-10-25 11:25:04.216 - com.Utils.Listeners:onTestStart 31==>  warningTextMessageCheck executing...
+[WARN ] 2023-10-25 11:25:04.442 - com.Utils.Listeners:onTestSuccess 39==>  Test Executed Succesfully
+[INFO ] 2023-10-25 11:54:13.253 - com.Utils.MyLogger:startTestCase 15==>  
+
+************** Execution Started : warningTextMessageCheck**************
+
+[INFO ] 2023-10-25 11:54:13.278 - com.Utils.Listeners:onTestStart 31==>  warningTextMessageCheck executing...
+[WARN ] 2023-10-25 11:54:13.512 - com.Utils.Listeners:onTestSuccess 39==>  Test Executed Succesfully
+[INFO ] 2023-10-25 12:05:33.428 - com.Utils.MyLogger:startTestCase 15==>  
+
+************** Execution Started : warningTextMessageCheck**************
+
+[INFO ] 2023-10-25 12:05:33.473 - com.Utils.Listeners:onTestStart 31==>  warningTextMessageCheck executing...
+[INFO ] 2023-10-25 12:19:11.274 - com.Utils.MyLogger:startTestCase 15==>  
+
+************** Execution Started : warningTextMessageCheck**************
+
+[INFO ] 2023-10-25 12:19:11.303 - com.Utils.Listeners:onTestStart 31==>  warningTextMessageCheck executing...
+[WARN ] 2023-10-25 12:19:11.532 - com.Utils.Listeners:onTestSuccess 39==>  Test Executed Succesfully

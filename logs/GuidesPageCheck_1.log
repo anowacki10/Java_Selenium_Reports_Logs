@@ -64,3 +64,15 @@
 
 [INFO ] 2023-10-24 22:33:10.645 - com.Utils.Listeners:onTestStart 31==>  GuidesPageCheck executing...
 [WARN ] 2023-10-24 22:33:11.898 - com.Utils.Listeners:onTestSuccess 39==>  Test Executed Succesfully
+[INFO ] 2023-10-25 11:24:01.563 - com.Utils.MyLogger:startTestCase 15==>  
+
+************** Execution Started : GuidesPageCheck**************
+
+[INFO ] 2023-10-25 11:24:01.567 - com.Utils.Listeners:onTestStart 31==>  GuidesPageCheck executing...
+[WARN ] 2023-10-25 11:24:02.741 - com.Utils.Listeners:onTestSuccess 39==>  Test Executed Succesfully
+[INFO ] 2023-10-25 12:26:42.852 - com.Utils.MyLogger:startTestCase 15==>  
+
+************** Execution Started : GuidesPageCheck**************
+
+[INFO ] 2023-10-25 12:26:42.858 - com.Utils.Listeners:onTestStart 31==>  GuidesPageCheck executing...
+[WARN ] 2023-10-25 12:26:44.113 - com.Utils.Listeners:onTestSuccess 39==>  Test Executed Succesfully
