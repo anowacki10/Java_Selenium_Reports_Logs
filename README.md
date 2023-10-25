@@ -7,7 +7,7 @@
 Welcome to my **CROSSWEB** Java-Selenium project for testing simple Web App.
 Project is developed in **Page Object Model** pattern assisted by **Page Factory** framework.
 <Pre></Pre>
-<pre>
+### TECHNOLOGIES ✨💫
 -  <b><i>Maven</b></i> -  bulding tool
 -  <b><i>JAVA</b></i> -  main Language
 -  <b><i>WebDriver</b></i> -  Selenium web framework that permits to execute cross-browser tests
@@ -38,6 +38,25 @@ Project is developed in **Page Object Model** pattern assisted by **Page Factory
 
 - logs <pre> ./src/logs/"TEST_NAME.log"   </pre>
 - reports <pre> ./Reports/"BrowserName_Report_date.xml"</pre>
+
+### CROSS BROWSING & RETRY TEST CONFIG 📋 
+<pre>
+You can find configuration file in ./src/test/resources/config.properties
+
+<b>In "# aplication data" you can define exetuting browser:</b>
+  
+browser=chrome
+or
+browser=firefox
+
+  
+<b>In # Retry Analizer you can define Maximum Retry Tries of Failed tests</b>
+  
+retryCount=2
+
+</pre>
+
+
 
 ## Samples 🙈 🙉 🙊
   Check a short GIF of ExtentReport overview, a sample Test execution or sample Test Case code.
