@@ -82,3 +82,9 @@
 
 [INFO ] 2023-10-25 12:29:48.077 - com.Utils.Listeners:onTestStart 31==>  GuidesPageCheck executing...
 [WARN ] 2023-10-25 12:29:49.351 - com.Utils.Listeners:onTestSuccess 39==>  Test Executed Succesfully
+[INFO ] 2023-10-27 21:22:48.754 - com.Utils.MyLogger:startTestCase 15==>  
+
+************** Execution Started : GuidesPageCheck**************
+
+[INFO ] 2023-10-27 21:22:48.764 - com.Utils.Listeners:onTestStart 31==>  GuidesPageCheck executing...
+[WARN ] 2023-10-27 21:22:50.015 - com.Utils.Listeners:onTestSuccess 39==>  Test Executed Succesfully

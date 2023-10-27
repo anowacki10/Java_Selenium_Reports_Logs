@@ -195,11 +195,13 @@ public class LoginPage {
         email.sendKeys(Email);
     }
 
-    public void orderCodeClick(){
+    public void orderCodeClick() throws InterruptedException {
         WebDriverWait wait = new WebDriverWait(DriverFactory.getInstance().getDriver(),5);
         wait.until(ExpectedConditions.visibilityOf(orderCode));
         JavascriptExecutor jsExecutor = (JavascriptExecutor) DriverFactory.getInstance().getDriver();
+        jsExecutor.executeScript("arguments[0].scrollIntoView();", orderCode);
         jsExecutor.executeScript("arguments[0].click();", orderCode);
+        Thread.sleep(2000);
 
     }
 

@@ -4,7 +4,6 @@ import com.Utils.DriverFactory;
 import com.testBase.TestBase;
 import org.testng.Assert;
 import org.testng.annotations.Test;
-import java.io.IOException;
 import static com.Utils.GetProperty.getProp;
 import static java.lang.Thread.*;
 
@@ -13,16 +12,14 @@ public class testCases extends TestBase {
 
 
     @Test
-    public void warningTextMessageCheck() throws IOException{
+    public void warningTextMessageCheck(){
         mainPage.warningClick();
         String text = mainPage.getWarningText();
         Assert.assertEquals(text,getProp("expectedWarningText"));
-
-
     }
 
     @Test
-    public void TestBankID() throws IOException, InterruptedException {
+    public void TestBankID() throws  InterruptedException {
         mainPage.loginTopClick();
         loginPage.testBankIdClick();
         Assert.assertEquals(DriverFactory.getInstance().getDriver().getCurrentUrl(),getProp("expectedTestIdUrl"));
@@ -44,7 +41,7 @@ public class testCases extends TestBase {
 
     }
     @Test
-    public void ProductionBankID() throws IOException, InterruptedException {
+    public void ProductionBankID() throws  InterruptedException {
         mainPage.loginTopClick();
         loginPage.productionBankIdClick();
         Assert.assertEquals(DriverFactory.getInstance().getDriver().getCurrentUrl(),getProp("expectedProductionUrl"));
@@ -62,12 +59,10 @@ public class testCases extends TestBase {
         loginPage.closeLoginClick();
         Assert.assertEquals(DriverFactory.getInstance().getDriver().getCurrentUrl(),getProp("url"));
 
-
-
     }
 
     @Test
-    public void loginCode() throws IOException, InterruptedException {
+    public void loginCode() throws InterruptedException {
         mainPage.loginTopClick();
         loginPage.personalCodeClick();
         loginPage.FillPersonalCodeInput(getProp("invalidPersonalCode"));
@@ -83,8 +78,6 @@ public class testCases extends TestBase {
         loginPage.orderCodeClick();
         Assert.assertEquals(DriverFactory.getInstance().getDriver().getCurrentUrl(),getProp("expectedCodeSentUrl"));
 
-
-
     }
     @Test
     public void securityButtonCheck(){
@@ -92,15 +85,12 @@ public class testCases extends TestBase {
         boolean flag = mainPage.securityButtonCheck();
         Assert.assertEquals(flag,true);
 
-
-
     }
     @Test
     public void identityButtonCheck(){
         mainPage.warningClick();
         boolean flag = mainPage.identityButtonCheck();
         Assert.assertEquals(flag,true);
-
     }
 
 }

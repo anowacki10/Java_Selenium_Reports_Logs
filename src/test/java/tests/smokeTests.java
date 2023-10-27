@@ -54,8 +54,6 @@ public class smokeTests extends TestBase {
         String text = mainPage.getGuides();
         Assert.assertEquals(text,getProp("expectedGuidesText"));
 
-
-
     }
 
 

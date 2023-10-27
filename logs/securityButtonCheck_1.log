@@ -46,3 +46,27 @@
 
 [INFO ] 2023-10-25 12:20:57.809 - com.Utils.Listeners:onTestStart 31==>  securityButtonCheck executing...
 [WARN ] 2023-10-25 12:20:58.600 - com.Utils.Listeners:onTestSuccess 39==>  Test Executed Succesfully
+[INFO ] 2023-10-27 21:25:22.520 - com.Utils.MyLogger:startTestCase 15==>  
+
+************** Execution Started : securityButtonCheck**************
+
+[INFO ] 2023-10-27 21:25:22.527 - com.Utils.Listeners:onTestStart 31==>  securityButtonCheck executing...
+[WARN ] 2023-10-27 21:25:23.402 - com.Utils.Listeners:onTestSuccess 39==>  Test Executed Succesfully
+[INFO ] 2023-10-27 21:34:59.491 - com.Utils.MyLogger:startTestCase 15==>  
+
+************** Execution Started : securityButtonCheck**************
+
+[INFO ] 2023-10-27 21:34:59.499 - com.Utils.Listeners:onTestStart 31==>  securityButtonCheck executing...
+[WARN ] 2023-10-27 21:35:00.420 - com.Utils.Listeners:onTestSuccess 39==>  Test Executed Succesfully
+[INFO ] 2023-10-27 21:43:23.207 - com.Utils.MyLogger:startTestCase 15==>  
+
+************** Execution Started : securityButtonCheck**************
+
+[INFO ] 2023-10-27 21:43:23.217 - com.Utils.Listeners:onTestStart 31==>  securityButtonCheck executing...
+[WARN ] 2023-10-27 21:43:24.166 - com.Utils.Listeners:onTestSuccess 39==>  Test Executed Succesfully
+[INFO ] 2023-10-27 22:17:42.203 - com.Utils.MyLogger:startTestCase 15==>  
+
+************** Execution Started : securityButtonCheck**************
+
+[INFO ] 2023-10-27 22:17:42.271 - com.Utils.Listeners:onTestStart 31==>  securityButtonCheck executing...
+[WARN ] 2023-10-27 22:17:43.207 - com.Utils.Listeners:onTestSuccess 39==>  Test Executed Succesfully
