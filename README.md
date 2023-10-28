@@ -61,9 +61,9 @@ retryCount=2
 ## Samples 🙈 🙉 🙊
   Check a short GIF of ExtentReport overview, a sample Test execution or sample Test Case code.
 <br></br>
-- ### Report Overview
+- ### Report Overview [GIF]
 <br>![Alt Text](zzzAttachments/extentReport_overview.gif)</br>
-- ### Sample test execution
+- ### Sample test execution [GIF]
 <br>![Alt Text](zzzAttachments/sampleTestExecute.gif)</br>
 - - ### Sample Test Case
 <br>![Alt Text](zzzAttachments/sampleTest.png)</br>
