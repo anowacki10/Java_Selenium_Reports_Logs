@@ -64,6 +64,6 @@ retryCount=2
 - ### Report Overview [GIF]
 <br>![Alt Text](.Attachments/extentReport_overview.gif)</br>
 - ### Sample test execution [GIF]
-<br>![Alt Text](.Attachments/sampleTestExecute.gif)</br>
+<br>![Alt Text](.Attachments/executeSampleTest.gif)</br>
 - - ### Sample Test Case
 <br>![Alt Text](.Attachments/sampleTest.png)</br>
