@@ -7,7 +7,7 @@
 Welcome to my **CROSSWEB** Java-Selenium project for testing simple Web App.
 Project is developed in **Page Object Model** pattern assisted by **Page Factory** framework.
 <Pre></Pre>
-### TECHNOLOGIES ✨💫
+### TECHNOLOGIES ✨💫 
 -  <b><i>Maven</b></i> -  bulding tool
 -  <b><i>JAVA</b></i> -  main Language
 -  <b><i>WebDriver</b></i> -  Selenium web framework that permits to execute cross-browser tests
