@@ -15,34 +15,34 @@ public class MainPage {
 
     WebDriver driver = null;
 
-    @FindBy(xpath = "//nav[@class='navbar navbar-expand-md']//img[@alt='Demo Bank']")
+    @FindBy(css = "nav[class='navbar navbar-expand-md'] img[alt='Demo Bank']")
     WebElement logo;
 
-    @FindBy(xpath = "//div[@class='header_loginContainer__ZvSvz']//a[normalize-space()='Log in']")
+    @FindBy(css = "div[class='header_loginContainer__ZvSvz'] a")
     WebElement loginTop;
 
-    @FindBy(xpath = "//*[@id=\"root\"]/main/div[2]/div/div[1]/div[2]/a")
+    @FindBy(css = ".bg-orange.mb-0.btn")
     WebElement loginBottom;
 
-    @FindBy(xpath = "//*[@id=\"root\"]/main/div/div/div/h3")
+    @FindBy(css = "div[class='col'] h3")
     WebElement loginPageText;
 
-    @FindBy(xpath = "//*[@id=\"root\"]/main/div[1]/button/div[1]/div")
+    @FindBy(css = ".smswarning_alertTitle__3Y8HR")
     WebElement warning;
 
-    @FindBy(xpath = "//*[@id=\"expandable-alert-home\"]/p")
+    @FindBy(css = "div[id='expandable-alert-home'] p")
     WebElement warningText;
 
-    @FindBy(xpath = "//ul[@class='d-none d-md-flex navbar-nav ms-auto']//a[@class='nav-link'][normalize-space()='Guides']")
+    @FindBy(css = "ul[class='d-none d-md-flex navbar-nav ms-auto'] a[class='nav-link']")
     WebElement guidesButton;
 
-    @FindBy(xpath = "//a[normalize-space()='BankID and security']")
+    @FindBy(css = "#expandable-alert-home > div > a:nth-child(1)")
     WebElement securityButton;
 
-    @FindBy(xpath = "//a[normalize-space()='Identity theft']")
+    @FindBy(css = "#expandable-alert-home > div > a:nth-child(4)")
     WebElement identityButton;
 
-    @FindBy(xpath = "//h3[normalize-space()='Useful guides']")
+    @FindBy(css = "div[class='col'] h3")
     WebElement guides;
 
 

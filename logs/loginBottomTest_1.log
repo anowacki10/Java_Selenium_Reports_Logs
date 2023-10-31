@@ -88,3 +88,15 @@
 
 [INFO ] 2023-10-27 21:22:43.860 - com.Utils.Listeners:onTestStart 31==>  loginBottomTest executing...
 [WARN ] 2023-10-27 21:22:44.099 - com.Utils.Listeners:onTestSuccess 39==>  Test Executed Succesfully
+[INFO ] 2023-10-29 11:00:51.247 - com.Utils.MyLogger:startTestCase 15==>  
+
+************** Execution Started : loginBottomTest**************
+
+[INFO ] 2023-10-29 11:00:51.251 - com.Utils.Listeners:onTestStart 31==>  loginBottomTest executing...
+[WARN ] 2023-10-29 11:00:51.398 - com.Utils.Listeners:onTestSuccess 39==>  Test Executed Succesfully
+[INFO ] 2023-10-31 15:20:19.255 - com.Utils.MyLogger:startTestCase 15==>  
+
+************** Execution Started : loginBottomTest**************
+
+[INFO ] 2023-10-31 15:20:19.264 - com.Utils.Listeners:onTestStart 31==>  loginBottomTest executing...
+[WARN ] 2023-10-31 15:20:19.496 - com.Utils.Listeners:onTestSuccess 39==>  Test Executed Succesfully

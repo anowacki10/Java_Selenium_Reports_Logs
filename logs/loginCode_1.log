@@ -100,3 +100,9 @@
 
 [INFO ] 2023-10-27 22:17:34.100 - com.Utils.Listeners:onTestStart 31==>  loginCode executing...
 [WARN ] 2023-10-27 22:17:37.850 - com.Utils.Listeners:onTestFailure 45==>  TEST FILED !
+[INFO ] 2023-10-31 15:15:53.259 - com.Utils.MyLogger:startTestCase 15==>  
+
+************** Execution Started : loginCode**************
+
+[INFO ] 2023-10-31 15:15:53.267 - com.Utils.Listeners:onTestStart 31==>  loginCode executing...
+[WARN ] 2023-10-31 15:15:57.877 - com.Utils.Listeners:onTestSuccess 39==>  Test Executed Succesfully
