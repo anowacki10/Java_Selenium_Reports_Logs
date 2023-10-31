@@ -116,6 +116,12 @@ public class LoginPage {
         String text = filedLogin.getText();
         return text;
     }
+    public String FiledLoginText() {
+        WebDriverWait wait = new WebDriverWait(DriverFactory.getInstance().getDriver(), 10);
+        wait.until(ExpectedConditions.visibilityOf(filedLogin));
+        String text = filedLogin.getText();
+        return text;
+    }
 
     public void tryAgainClick(){
         WebDriverWait wait = new WebDriverWait(DriverFactory.getInstance().getDriver(), 5);
