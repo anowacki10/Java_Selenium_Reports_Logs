@@ -55,7 +55,7 @@ public class testCases extends TestBase {
         loginPage.tryAgainClick();
         Assert.assertEquals(DriverFactory.getInstance().getDriver().getCurrentUrl(),getProp("expectedLoginUrl"));
         loginPage.productionBankIdClick();
-        String filedText1 = loginPage.getFiledLoginText();
+        String filedText1 = loginPage.getFiledLoginText() ;
         Assert.assertEquals(filedText1, getProp("expectedFiledLoginText"));
         loginPage.closeLoginClick();
         Assert.assertEquals(DriverFactory.getInstance().getDriver().getCurrentUrl(),getProp("url"));
