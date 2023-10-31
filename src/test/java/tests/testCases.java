@@ -4,8 +4,9 @@ import com.Utils.DriverFactory;
 import com.testBase.TestBase;
 import org.testng.Assert;
 import org.testng.annotations.Test;
+
 import static com.Utils.GetProperty.getProp;
-import static java.lang.Thread.*;
+import static java.lang.Thread.sleep;
 
 
 public class testCases extends TestBase {
@@ -27,13 +28,13 @@ public class testCases extends TestBase {
         Assert.assertEquals(text,getProp("expectedTestIdText"));
         boolean  qr =loginPage.getQrCodeBankID();
         Assert.assertEquals(qr,true);
-        sleep(1);
+        sleep(10000);  // this sleep are used purposely to fail a testcase
         String filedText = loginPage.getFiledLoginText();
         Assert.assertEquals(filedText, getProp("expectedFiledLoginText"));
         loginPage.tryAgainClick();
         Assert.assertEquals(DriverFactory.getInstance().getDriver().getCurrentUrl(),getProp("expectedLoginUrl"));
         loginPage.testBankIdClick();
-        sleep(10000);
+        sleep(10000); // this sleep are used purposely to fail a testcase
         loginPage.closeLoginClick();
         Assert.assertEquals(DriverFactory.getInstance().getDriver().getCurrentUrl(),getProp("url"));
 
@@ -49,13 +50,13 @@ public class testCases extends TestBase {
         Assert.assertEquals(text,getProp("expectedProductionBankIdText"));
         boolean  qr =loginPage.getQrCodeBankID();
         Assert.assertEquals(qr,true);
-        sleep(32000);
         String filedText = loginPage.getFiledLoginText();
         Assert.assertEquals(filedText, getProp("expectedFiledLoginText"));
         loginPage.tryAgainClick();
         Assert.assertEquals(DriverFactory.getInstance().getDriver().getCurrentUrl(),getProp("expectedLoginUrl"));
         loginPage.productionBankIdClick();
-        sleep(32000);
+        String filedText1 = loginPage.getFiledLoginText();
+        Assert.assertEquals(filedText1, getProp("expectedFiledLoginText"));
         loginPage.closeLoginClick();
         Assert.assertEquals(DriverFactory.getInstance().getDriver().getCurrentUrl(),getProp("url"));
 

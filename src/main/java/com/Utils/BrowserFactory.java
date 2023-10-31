@@ -22,7 +22,7 @@ public class BrowserFactory {
             WebDriverManager.chromedriver().setup();
             ChromeOptions options = new ChromeOptions();
             options.addArguments("--incognito");
-            options.addArguments("--headless");
+            //options.addArguments("--headless");
             options.addArguments("--disable-gpu");
             driver = new ChromeDriver(options);
         } else if (browser.equalsIgnoreCase("firefox")) {
