@@ -9,8 +9,6 @@ import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-import java.time.Duration;
-
 
 public class LoginPage {
     WebDriver driver = null;
@@ -113,7 +111,7 @@ public class LoginPage {
     }
 
     public String getFiledLoginText(){
-        WebDriverWait wait = new WebDriverWait(DriverFactory.getInstance().getDriver(), 5);
+        WebDriverWait wait = new WebDriverWait(DriverFactory.getInstance().getDriver(), 32);
         wait.until(ExpectedConditions.visibilityOf(filedLogin));
         String text = filedLogin.getText();
         return text;
