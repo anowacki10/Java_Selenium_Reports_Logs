@@ -6,7 +6,6 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 
 import static com.Utils.GetProperty.getProp;
-import static java.lang.Thread.sleep;
 
 
 public class testCases extends TestBase {
@@ -28,13 +27,11 @@ public class testCases extends TestBase {
         Assert.assertEquals(text,getProp("expectedTestIdText"));
         boolean  qr =loginPage.getQrCodeBankID();
         Assert.assertEquals(qr,true);
-        sleep(10000);  // this sleep are used purposely to fail a testcase
-        String filedText = loginPage.getFiledLoginText();
+        String filedText = loginPage.FiledLoginText();
         Assert.assertEquals(filedText, getProp("expectedFiledLoginText"));
         loginPage.tryAgainClick();
         Assert.assertEquals(DriverFactory.getInstance().getDriver().getCurrentUrl(),getProp("expectedLoginUrl"));
         loginPage.testBankIdClick();
-        sleep(10000); // this sleep are used purposely to fail a testcase
         loginPage.closeLoginClick();
         Assert.assertEquals(DriverFactory.getInstance().getDriver().getCurrentUrl(),getProp("url"));
 
