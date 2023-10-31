@@ -14,62 +14,62 @@ import java.time.Duration;
 
 public class LoginPage {
     WebDriver driver = null;
-    @FindBy(xpath = "//a[normalize-space()='Test BankID']")
+    @FindBy(css = "#root > main > div > div > div > div > a:nth-child(1)")
     WebElement testBankId;
 
-    @FindBy(xpath = "//a[normalize-space()='Production BankID']")
+    @FindBy(css = "#root > main > div > div > div > div > a:nth-child(2)")
     WebElement productionBankId;
 
-    @FindBy(xpath = "//a[normalize-space()='Personal code']")
+    @FindBy(css = "#root > main > div > div > div > div > a:nth-child(3)")
     WebElement personalCode;
 
-    @FindBy(xpath = "//*[@id=\"root\"]/main/div/div/div/h3")
+    @FindBy(css = ".dialog_title__2jXSf")
     WebElement testBankIdText;
 
-    @FindBy(xpath = "//img[@alt='QR-code']")
+    @FindBy(css = "img[alt='QR-code']")
     WebElement qrCode;
 
-    @FindBy(xpath = "//*[@id=\"root\"]/main/div/div/div/div[2]/p")
+    @FindBy(css = ".loginerrorpage_reason__1Ul9w")
     WebElement filedLogin;
 
-    @FindBy(xpath = "//*[@id=\"root\"]/main/div/div/div/div[2]/a[1]")
+    @FindBy(css = ".btn.bg-darkblue.loginerrorpage_button__2I67n")
     WebElement tryAgainLogin;
 
-    @FindBy(xpath = "//*[@id=\"root\"]/main/div/div/div/div[2]/a[2]")
+    @FindBy(css = "a[class='btn loginerrorpage_button__2I67n']")
     WebElement closeLogin;
 
-    @FindBy(xpath = "//*[@id=\"root\"]/main/div/div/div/h3")
+    @FindBy(css = ".dialog_title__2jXSf")
     WebElement productionText;
 
-    @FindBy(xpath = "//input[@placeholder='Enter code']")
+    @FindBy(css = "input[placeholder='Enter code']")
     WebElement personalCodeInput;
 
 
-    @FindBy(xpath = "//button[@type='submit']")
+    @FindBy(css = "button[type='submit']")
     WebElement codeLogin;
 
-    @FindBy(xpath = "//*[@id=\"root\"]/main/div/div/div/div[1]/form/div[2]/div")
+    @FindBy(css = ".singleinputform_errorDescription__2W6Av")
     WebElement invalidCodeResponse;
 
-    @FindBy(xpath = "//a[@class='btn bg-darkblue logincode_order__N44Ja']")
+    @FindBy(css = ".btn.bg-darkblue.logincode_order__N44Ja")
     WebElement orderPersonalCode;
 
-    @FindBy(xpath = "//input[@id='firstname_field']")
+    @FindBy(css = "#firstname_field")
     WebElement firstName;
 
-    @FindBy(xpath = "//input[@id='lastname_field']")
+    @FindBy(css = "#lastname_field")
     WebElement lastName;
 
-    @FindBy(xpath = "//input[@id='organization_field']")
+    @FindBy(css = "#organization_field")
     WebElement organization;
 
-    @FindBy(xpath = "//input[@id='project_field']")
+    @FindBy(css = "#project_field")
     WebElement project;
 
-    @FindBy(xpath = "//input[@id='e-mailaddress_field']")
+    @FindBy(css = "#e-mailaddress_field")
     WebElement email;
 
-    @FindBy(xpath = "//*[@id=\"root\"]/main/div/div/div[2]/form/button")
+    @FindBy(css ="button[type='submit']")
     WebElement orderCode;
 
 
