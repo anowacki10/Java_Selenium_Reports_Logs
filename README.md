@@ -4,8 +4,7 @@
 </pre>
 #### SUMMARY 📚
 
-Welcome to my **CROSSWEB** Java-Selenium project for testing simple Web App.
-Project is developed in **Page Object Model** pattern assisted by **Page Factory** framework.
+Welcome to my crossweb Java-Selenium testing project developed in **Page Object Model** pattern assisted by **Page Factory** framework.
 <Pre></Pre>
 ### TECHNOLOGIES ✨💫 
 -  <b><i>Maven</b></i> -  bulding tool
