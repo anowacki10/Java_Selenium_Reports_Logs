@@ -1,4 +1,4 @@
-## Java_Selenium_automaticReports-Logs 📰
+## Java_Selenium_Reports_Logs 📰
 <pre>
 <b>Check requirements & instruction for run this project locally or checkout samples bellow 🔽 <b>
 </pre>
